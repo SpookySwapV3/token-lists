@@ -1,0 +1,48 @@
+{
+	"name": "GoatSwap Goat Default List",
+	"timestamp": "2024-09-07T16:17:27Z",
+	"version": {
+	  "major": 11,
+	  "minor": 2,
+	  "patch": 1
+	},
+	"keywords": [
+	  "goatswap",
+	  "default"
+	],
+	"tokens": [
+	  {
+		"name": "Wrapped Goat Bitcoin",
+		"symbol": "WGBTC",
+		"address": "0xbC10000000000000000000000000000000000000",
+		"chainId": 2345,
+		"decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/7598/standard/wrapped_bitcoin_wbtc.png"
+	  },
+	  {
+		"name": "USD Tether (LZ)",
+		"symbol": "USDT",
+		"address": "0xE1AD845D93853fff44990aE0DcecD8575293681e",
+		"chainId": 2345,
+		"decimals": 6,
+		"logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png"
+	  },
+	  {
+		"name": "USD Coin (LZ)",
+		"symbol": "USDC.e",
+		"address": "0x3022b87ac063DE95b1570F46f5e470F8B53112D8",
+		"chainId": 2345,
+		"decimals": 6,
+		"logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png"
+	  },
+	  {
+		"name": "Wrapped Ether (LZ)",
+		"symbol": "WETH",
+		"address": "0x3a1293Bdb83bBbDd5Ebf4fAc96605aD2021BbC0f",
+		"chainId": 2345,
+		"decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/31013/standard/wrapped-eth-mantle-bridge.png"
+	  }
+	]
+}
+  
