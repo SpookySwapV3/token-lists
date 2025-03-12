@@ -20,7 +20,7 @@
 			"logoURI": "https://raw.githubusercontent.com/SpookySwapV3/token-lists/refs/heads/main/Goat/assets/WGBTC.png"
 		},
 		{
-			"name": "USDT",
+			"name": "USD Tether (LZ)",
 			"symbol": "USDT",
 			"address": "0xE1AD845D93853fff44990aE0DcecD8575293681e",
 			"chainId": 2345,
@@ -28,7 +28,7 @@
 			"logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png"
 		},
 		{
-			"name": "USDC.e",
+			"name": "USD Coin (LZ)",
 			"symbol": "USDC.e",
 			"address": "0x3022b87ac063DE95b1570F46f5e470F8B53112D8",
 			"chainId": 2345,
@@ -36,7 +36,7 @@
 			"logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png"
 		},
 		{
-			"name": "WETH",
+			"name": "Wrapped Ether (LZ)",
 			"symbol": "WETH",
 			"address": "0x3a1293Bdb83bBbDd5Ebf4fAc96605aD2021BbC0f",
 			"chainId": 2345,
