@@ -2,7 +2,7 @@
 	"name": "GoatSwap Goat Default List",
 	"timestamp": "2025-03-12T23:30:00Z",
 	"version": {
-		"major": 13,
+		"major": 14,
 		"minor": 2,
 		"patch": 1
 	},
@@ -44,7 +44,7 @@
 			"logoURI": "https://assets.coingecko.com/coins/images/31013/standard/wrapped-eth-mantle-bridge.png"
 		},
 		{
-			"name": "Bitcoin (Binance)",
+			"name": "Bitcoin (BNB)",
 			"symbol": "BTCB",
 			"address": "0xfe41e7e5cB3460c483AB2A38eb605Cda9e2d248E",
 			"chainId": 2345,
@@ -52,7 +52,7 @@
 			"logoURI": "https://raw.githubusercontent.com/SpookySwapV3/token-lists/refs/heads/main/Goat/assets/BTCB.png"
 		},
 		{
-			"name": "Dogecoin (Binance)",
+			"name": "Dogecoin (BNB)",
 			"symbol": "DOGEB",
 			"address": "0x1E0d0303a8c4aD428953f5ACB1477dB42bb838cf",
 			"chainId": 2345,
@@ -68,7 +68,7 @@
 			"logoURI": "https://raw.githubusercontent.com/SpookySwapV3/token-lists/refs/heads/main/Goat/assets/artBTC.png"
 		},
 		{
-			"name": "Artemis Deposited Binance-Dogecoin",
+			"name": "Artemis Deposited Dogecoin-BNB",
 			"symbol": "ArtDOGEB",
 			"address": "0xa3027972E2bf168d3Df12a1533f073b330126f34",
 			"chainId": 2345,
@@ -76,7 +76,7 @@
 			"logoURI": "https://raw.githubusercontent.com/SpookySwapV3/token-lists/refs/heads/main/Goat/assets/artDOGEB.png"
 		},
 		{
-			"name": "Artemis Deposited Binance-Bitcoin",
+			"name": "Artemis Deposited Bitcoin-BNB",
 			"symbol": "ArtBTCB",
 			"address": "0x941508f0B823f1BC40a9beEFCE5e544E525a94c3",
 			"chainId": 2345,
