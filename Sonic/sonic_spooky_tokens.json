@@ -2,7 +2,7 @@
   "name": "SpookySwap Sonic Default List",
   "timestamp": "2023-07-06T16:17:27Z",
   "version": {
-    "major": 45,
+    "major": 46,
     "minor": 3,
     "patch": 3
   },
@@ -129,7 +129,7 @@
       "address": "0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564",
       "chainId": 146,
       "decimals": 18,
-      "logoURI": "https://pbs.twimg.com/profile_images/1860563664715091968/ErhT66T5_400x400.jpg"
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x9fdbc3f8abc05fa8f3ad3c17d2f806c1230c4564.png?size=lg&key=c9601a"
     },
     {
       "name": "Valhalla DAO",
@@ -145,7 +145,7 @@
       "address": "0xe920d1DA9A4D59126dC35996Ea242d60EFca1304",
       "chainId": 146,
       "decimals": 18,
-      "logoURI": "https://pbs.twimg.com/profile_images/1859762864463937536/0WiML_a5_400x400.jpg"
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0xe920d1da9a4d59126dc35996ea242d60efca1304.png?size=lg&key=d44446"
     },
     {
       "name": "NAVI",
@@ -153,7 +153,7 @@
       "address": "0x6881B80ea7C858E4aEEf63893e18a8A36f3682f3",
       "chainId": 146,
       "decimals": 18,
-      "logoURI": "https://pbs.twimg.com/profile_images/1866680440725311488/Eh3VHYL7_400x400.jpg"
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x6881b80ea7c858e4aeef63893e18a8a36f3682f3.png?size=lg&key=c88ba5"
     },
     {
       "name": "FantomSonicInu",
@@ -161,7 +161,7 @@
       "address": "0x05e31a691405d06708A355C029599c12d5da8b28",
       "chainId": 146,
       "decimals": 18,
-      "logoURI": "https://pbs.twimg.com/profile_images/1750896079791632384/VaSB8Eil_400x400.jpg"
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x05e31a691405d06708a355c029599c12d5da8b28.png?size=lg&key=f7ac24"
     },
     {
       "name": "HEDGY the hedgehog",
@@ -169,7 +169,7 @@
       "address": "0x6fB9897896Fe5D05025Eb43306675727887D0B7c",
       "chainId": 146,
       "decimals": 18,
-      "logoURI": "https://pbs.twimg.com/profile_images/1840012250393780224/cVKJGU_W_400x400.jpg"
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x6fb9897896fe5d05025eb43306675727887d0b7c.png?size=lg&key=afcacc"
     },
     {
       "name": "Tails on Sonic ",
@@ -177,7 +177,7 @@
       "address": "0x41211648C51AcB9A5F39A93C657e894A0bdB88e4",
       "chainId": 146,
       "decimals": 18,
-      "logoURI": "https://pbs.twimg.com/profile_images/1873918578837069824/0V_0ga-z_400x400.jpg"
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x41211648c51acb9a5f39a93c657e894a0bdb88e4.png?size=lg&key=d64b09"
     },
     {
       "name": "Tin Hat Cat",
@@ -201,7 +201,7 @@
       "address": "0xddF26B42C1d903De8962d3F79a74a501420d5F19",
       "chainId": 146,
       "decimals": 18,
-      "logoURI": "https://pbs.twimg.com/profile_images/1539763743818518529/3ziV5hBt_400x400.jpg"
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0xddf26b42c1d903de8962d3f79a74a501420d5f19.png?size=lg&key=6ee557"
     },
     {
       "name": "Whale",
