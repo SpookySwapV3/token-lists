@@ -554,6 +554,54 @@
       "chainId": 146,
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0xcbfe13919530cb054b9cabbf9cda1dd1d811e3e6.png?size=lg&key=9f4378"
+    },
+    {
+      "name": "Rome",
+      "symbol": "ROME",
+      "address": "0xC8449E006c5cb61959168F273c3E17FB8d2CD75e",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0xc8449e006c5cb61959168f273c3e17fb8d2cd75e.png?size=lg&key=c5add1"
+    },
+    {
+      "name": "Boom Token",
+      "symbol": "BOOM",
+      "address": "0xcc17DBc9EB1c29f90388Fa197b983714fdAaDa46",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0xcc17dbc9eb1c29f90388fa197b983714fdaada46.png?size=lg&key=8d825e"
+    },
+    {
+      "name": "Solis",
+      "symbol": "SOLIS",
+      "address": "0x42ED764Ec17FF0bc4a0d0E6c09D1d6444233EfFD",
+      "chainId": 146,
+      "decimals": 9,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x42ed764ec17ff0bc4a0d0e6c09d1d6444233effd.png?size=lg&key=aae2d6"
+    },
+    {
+      "name": "BurnX",
+      "symbol": "BRNx",
+      "address": "0x89F0462e56930CfEa4a481C1b9a0d26fA8BD94E6",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x89f0462e56930cfea4a481c1b9a0d26fa8bd94e6.png?size=lg&key=da25fd",
+    },
+    {
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "address": "0x65A3E654790a2B7ED80afcA646cAaEbaa84dB4df",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x65a3e654790a2b7ed80afca646caaebaa84db4df.png?size=lg&key=e86ada"
+    },
+    {
+      "name": "ThankYouSonicGod",
+      "symbol": "TYSG",
+      "address": "0x56192E94434c4fd3278b4Fa53039293fB00DE3DB",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x56192e94434c4fd3278b4fa53039293fb00de3db.png?size=lg&key=eaa019"
     }
   ]
 }
