@@ -11,4 +11,5 @@ Create a PR from your fork to our original repo. Make sure to enable the option 
 
 ### Notes:
 All of the necessary steps can also be done through the GitHub Web UI.
+
 If you are a Spooky team member, you can create PRs directly on this repository (by making a new branch), instead of having to fork it.
