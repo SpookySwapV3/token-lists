@@ -1,0 +1,32 @@
+{
+    "name": "Monad Testnet Default List",
+    "timestamp": "2024-07-06T16:17:26Z",
+    "version": {
+      "major": 2,
+      "minor": 2,
+      "patch": 1
+    },
+    "keywords": [
+      "monadtestnet",
+      "default"
+    ],
+    "tokens": [
+      {
+        "name": "Wrapped MON",
+        "symbol": "WMON",
+        "address": "0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701",
+        "chainId": 10143,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/SpookySwapV3/token-lists/refs/heads/main/MonadTestnet/assets/WMON.png"
+      },
+      {
+        "name": "USD Coin (Monad Test)",
+        "symbol": "USDC",
+        "address": "0xFe4EFED145508AeB124152f18B4035C01b22D016",
+        "chainId": 10143,
+        "decimals": 6,
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png"
+      }
+    ]
+  }
+  
