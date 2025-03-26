@@ -1,10 +1,10 @@
 {
   "name": "SpookySwap Sonic Default List",
-  "timestamp": "2023-07-06T16:17:27Z",
+  "timestamp": "2025-03-26T10:17:27Z",
   "version": {
-    "major": 47,
-    "minor": 3,
-    "patch": 3
+    "major": 50,
+    "minor": 1,
+    "patch": 1
   },
   "keywords": [
     "spookyswap",
@@ -17,7 +17,7 @@
       "address": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
       "chainId": 146,
       "decimals": 18,
-      "logoURI": "https://sonicscan.org/token/images/wrappedsonic_32.svg"
+      "logoURI": "https://assets.coingecko.com/coins/images/52857/standard/wrapped_sonic.png"
     },
     {
       "name": "SpookySwap",
@@ -25,7 +25,7 @@
       "address": "0x7A0C53F7eb34C5BC8B01691723669adA9D6CB384",
       "chainId": 146,
       "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x7a0c53f7eb34c5bc8b01691723669ada9d6cb384.png?size=lg&key=d6b5b6"
+      "logoURI": "https://assets.coingecko.com/coins/images/15223/standard/logo_200x200.png"
     },
     {
       "name": "Wrapped Ether (Bridged)",
@@ -33,7 +33,7 @@
       "address": "0x50c42dEAcD8Fc9773493ED674b675bE577f2634b",
       "chainId": 146,
       "decimals": 18,
-      "logoURI": "https://sonicscan.org/token/images/wethgno_32.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/31013/standard/wrapped-eth-mantle-bridge.png"
     },
     {
       "name": "USDC (Bridged)",
@@ -41,7 +41,7 @@
       "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
       "chainId": 146,
       "decimals": 6,
-      "logoURI": "https://sonicscan.org/token/images/usdc_32.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png"
     },
     {
       "name": "EURC (Bridged)",
@@ -49,7 +49,7 @@
       "address": "0xe715cbA7B5cCb33790ceBFF1436809d36cb17E57",
       "chainId": 146,
       "decimals": 6,
-      "logoURI": "https://sonicscan.org/token/images/eurc_32.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/26045/standard/euro.png"
     },
     {
       "name": "YELToken",
