@@ -2,7 +2,7 @@
   "name": "SpookySwap Sonic Default List",
   "timestamp": "2023-07-06T16:17:27Z",
   "version": {
-    "major": 46,
+    "major": 47,
     "minor": 3,
     "patch": 3
   },
@@ -17,7 +17,7 @@
       "address": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
       "chainId": 146,
       "decimals": 18,
-      "logoURI": "https://assets.spooky.fi/tokens/wS.png"
+      "logoURI": "https://sonicscan.org/token/images/wrappedsonic_32.svg"
     },
     {
       "name": "SpookySwap",
@@ -25,7 +25,7 @@
       "address": "0x7A0C53F7eb34C5BC8B01691723669adA9D6CB384",
       "chainId": 146,
       "decimals": 18,
-      "logoURI": "https://assets.spooky.fi/tokens/BOO.png"
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x7a0c53f7eb34c5bc8b01691723669ada9d6cb384.png?size=lg&key=d6b5b6"
     },
     {
       "name": "Wrapped Ether (Bridged)",
@@ -33,7 +33,7 @@
       "address": "0x50c42dEAcD8Fc9773493ED674b675bE577f2634b",
       "chainId": 146,
       "decimals": 18,
-      "logoURI": "https://assets.spooky.fi/tokens/wETH.png"
+      "logoURI": "https://sonicscan.org/token/images/wethgno_32.png"
     },
     {
       "name": "USDC (Bridged)",
@@ -41,7 +41,7 @@
       "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
       "chainId": 146,
       "decimals": 6,
-      "logoURI": "https://assets.spooky.fi/tokens/USDC.png"
+      "logoURI": "https://sonicscan.org/token/images/usdc_32.png"
     },
     {
       "name": "EURC (Bridged)",
@@ -57,7 +57,7 @@
       "address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
       "chainId": 146,
       "decimals": 18,
-      "logoURI": "https://assets.spooky.fi/tokens/YEL.png"
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x949185d3be66775ea648f4a306740ea9eff9c567.png?size=lg&key=20bcc4"
     },
     {
       "name": "SuperSonic Grim",
@@ -65,7 +65,7 @@
       "address": "0xB387f9577CC7dF1B0358Fb1aeA57B3500068130f",
       "chainId": 146,
       "decimals": 18,
-      "logoURI": "https://assets.spooky.fi/tokens/SSGrim.png"
+      "logoURI": "https://raw.githubusercontent.com/SpookySwapV3/token-lists/refs/heads/main/Sonic/assets/ssgrim.png"
     },
     {
       "name": "Beets Staked Sonic",
@@ -89,7 +89,7 @@
       "address": "0x775F95Fb27Da55C025eed5EBd7595a2fea5aF081",
       "chainId": 146,
       "decimals": 18,
-      "logoURI": "https://assets.spooky.fi/tokens/BOOO.png"
+      "logoURI": "https://raw.githubusercontent.com/SpookySwapV3/token-lists/refs/heads/main/Sonic/assets/BOOO.png"
     },
     {
       "name": "Yoko",
@@ -457,7 +457,7 @@
       "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
       "chainId": 146,
       "decimals": 8,
-      "logoURI": "https://assets.spooky.fi/tokens/wBTC.png"
+      "logoURI": "https://sonicscan.org/token/images/wrappedbtc_ofc_32.svg"
     },
     {
       "name": "sDOG",
@@ -554,6 +554,54 @@
       "chainId": 146,
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0xcbfe13919530cb054b9cabbf9cda1dd1d811e3e6.png?size=lg&key=9f4378"
+    },
+    {
+      "name": "Rome",
+      "symbol": "ROME",
+      "address": "0xC8449E006c5cb61959168F273c3E17FB8d2CD75e",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0xc8449e006c5cb61959168f273c3e17fb8d2cd75e.png?size=lg&key=c5add1"
+    },
+    {
+      "name": "Boom Token",
+      "symbol": "BOOM",
+      "address": "0xcc17DBc9EB1c29f90388Fa197b983714fdAaDa46",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0xcc17dbc9eb1c29f90388fa197b983714fdaada46.png?size=lg&key=8d825e"
+    },
+    {
+      "name": "Solis",
+      "symbol": "SOLIS",
+      "address": "0x42ED764Ec17FF0bc4a0d0E6c09D1d6444233EfFD",
+      "chainId": 146,
+      "decimals": 9,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x42ed764ec17ff0bc4a0d0e6c09d1d6444233effd.png?size=lg&key=aae2d6"
+    },
+    {
+      "name": "BurnX",
+      "symbol": "BRNx",
+      "address": "0x89F0462e56930CfEa4a481C1b9a0d26fA8BD94E6",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x89f0462e56930cfea4a481c1b9a0d26fa8bd94e6.png?size=lg&key=da25fd",
+    },
+    {
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "address": "0x65A3E654790a2B7ED80afcA646cAaEbaa84dB4df",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x65a3e654790a2b7ed80afca646caaebaa84db4df.png?size=lg&key=e86ada"
+    },
+    {
+      "name": "ThankYouSonicGod",
+      "symbol": "TYSG",
+      "address": "0x56192E94434c4fd3278b4Fa53039293fB00DE3DB",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x56192e94434c4fd3278b4fa53039293fb00de3db.png?size=lg&key=eaa019"
     }
   ]
 }
