@@ -602,6 +602,38 @@
       "chainId": 146,
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x56192e94434c4fd3278b4fa53039293fb00de3db.png?size=lg&key=eaa019"
+    },
+    {
+      "name": "The_Herd_Mentality",
+      "symbol": "SHEEP",
+      "address": "0x7bf26dF0E9Db4F70f286c39A9cd3A77Cb7407aa4",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x7bf26df0e9db4f70f286c39a9cd3a77cb7407aa4.png?size=lg&key=a56154"
+    },
+    {
+      "name": "MLH Token",
+      "symbol": "MLH",
+      "address": "0x3B2CE558Eec07099e668e4cF1C5B47aAd2968785",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x3b2ce558eec07099e668e4cf1c5b47aad2968785.png?size=lg&key=73b08c"
+    },
+    {
+      "name": "SonicInu",
+      "symbol": "SINU",
+      "address": "0x04C64f7A19B1DAF815A9726DE56DAd7cb82C4419",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x04c64f7a19b1daf815a9726de56dad7cb82c4419.png?size=lg&key=d31d19"
+    },
+    {
+      "name": "Meow",
+      "symbol": "MEOW",
+      "address": "0x59109F47f2b167f47e1615DA46Cc5f67DFf0E034",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x59109f47f2b167f47e1615da46cc5f67dff0e034.png?size=lg&key=6ffe7d"
     }
   ]
 }
