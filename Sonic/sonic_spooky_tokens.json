@@ -2,7 +2,7 @@
   "name": "SpookySwap Sonic Default List",
   "timestamp": "2025-03-26T10:17:27Z",
   "version": {
-    "major": 52,
+    "major": 53,
     "minor": 1,
     "patch": 1
   },
@@ -572,14 +572,6 @@
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0xcc17dbc9eb1c29f90388fa197b983714fdaada46.png?size=lg&key=8d825e"
     },
     {
-      "name": "Solis",
-      "symbol": "SOLIS",
-      "address": "0x42ED764Ec17FF0bc4a0d0E6c09D1d6444233EfFD",
-      "chainId": 146,
-      "decimals": 9,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x42ed764ec17ff0bc4a0d0e6c09d1d6444233effd.png?size=lg&key=aae2d6"
-    },
-    {
       "name": "BurnX",
       "symbol": "BRNx",
       "address": "0x89F0462e56930CfEa4a481C1b9a0d26fA8BD94E6",
@@ -634,6 +626,30 @@
       "chainId": 146,
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x59109f47f2b167f47e1615da46cc5f67dff0e034.png?size=lg&key=6ffe7d"
+    },
+    {
+      "name": "SHIELD",
+      "symbol": "SHIELD",
+      "address": "0x6706Adb93117C0a7235dCBe639E12ed13fa5752f",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x6706adb93117c0a7235dcbe639e12ed13fa5752f.png?size=lg&key=3e86cd"
+    },
+    {
+      "name": "MEGGHIEBVOZON",
+      "symbol": "MEGGY",
+      "address": "0x6FdAf5571D1F7D2e12281B349634c21Abf6b4C38",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x6fdaf5571d1f7d2e12281b349634c21abf6b4c38.png?size=lg&key=d2cfda"
+    },
+    {
+      "name": "Myrd Token",
+      "symbol": "MYRD",
+      "address": "0xddddd1b4a383dcB89938bC8b8964Cad3C632Fad0",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0xddddd1b4a383dcb89938bc8b8964cad3c632fad0.png?size=lg&key=6e2590"
     }
   ]
 }
