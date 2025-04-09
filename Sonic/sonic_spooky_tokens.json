@@ -2,7 +2,7 @@
   "name": "SpookySwap Sonic Default List",
   "timestamp": "2025-03-26T10:17:27Z",
   "version": {
-    "major": 53,
+    "major": 54,
     "minor": 1,
     "patch": 1
   },
@@ -604,36 +604,12 @@
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x7bf26df0e9db4f70f286c39a9cd3a77cb7407aa4.png?size=lg&key=a56154"
     },
     {
-      "name": "MLH Token",
-      "symbol": "MLH",
-      "address": "0x3B2CE558Eec07099e668e4cF1C5B47aAd2968785",
-      "chainId": 146,
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x3b2ce558eec07099e668e4cf1c5b47aad2968785.png?size=lg&key=73b08c"
-    },
-    {
-      "name": "SonicInu",
-      "symbol": "SINU",
-      "address": "0x04C64f7A19B1DAF815A9726DE56DAd7cb82C4419",
-      "chainId": 146,
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x04c64f7a19b1daf815a9726de56dad7cb82c4419.png?size=lg&key=d31d19"
-    },
-    {
       "name": "Meow",
       "symbol": "MEOW",
       "address": "0x59109F47f2b167f47e1615DA46Cc5f67DFf0E034",
       "chainId": 146,
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x59109f47f2b167f47e1615da46cc5f67dff0e034.png?size=lg&key=6ffe7d"
-    },
-    {
-      "name": "SHIELD",
-      "symbol": "SHIELD",
-      "address": "0x6706Adb93117C0a7235dCBe639E12ed13fa5752f",
-      "chainId": 146,
-      "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x6706adb93117c0a7235dcbe639e12ed13fa5752f.png?size=lg&key=3e86cd"
     },
     {
       "name": "MEGGHIEBVOZON",
@@ -650,6 +626,22 @@
       "chainId": 146,
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0xddddd1b4a383dcb89938bc8b8964cad3c632fad0.png?size=lg&key=6e2590"
+    },
+    {
+      "name": "Polter.Finance Protocol Token",
+      "symbol": "POLTER",
+      "address": "0x44BD4F79A95cF04505F2dc5C8e2e4043f67C7B07",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://sonicscan.org/token/images/polter_32.svg"
+    },
+    {
+      "name": "Stable Jack",
+      "symbol": "JACK",
+      "address": "0x9d549C39E5E1A0e7eF41D4b7d74c49f976102E36",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://cdn.dexscreener.com/fetch?src=https%3A%2F%2Fcoin-images.coingecko.com%2Fcoins%2Fimages%2F54835%2Flarge%2F200x200_token.png%3F1741969713"
     }
   ]
 }
