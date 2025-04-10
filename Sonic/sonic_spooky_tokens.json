@@ -642,6 +642,14 @@
       "chainId": 146,
       "decimals": 18,
       "logoURI": "https://cdn.dexscreener.com/fetch?src=https%3A%2F%2Fcoin-images.coingecko.com%2Fcoins%2Fimages%2F54835%2Flarge%2F200x200_token.png%3F1741969713"
+    },
+    {
+      "name": "SPIN IT",
+      "symbol": "SPIN",
+      "address": "0x777ecd9a05d4640133f6112F3aA777f1eD5AcACE",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x777ecd9a05d4640133f6112f3aa777f1ed5acace.png?size=lg&key=15d647"
     }
   ]
 }
