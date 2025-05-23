@@ -1,0 +1,32 @@
+{
+    "name": "Mantle Default List",
+    "timestamp": "2024-07-06T16:17:26Z",
+    "version": {
+      "major": 2,
+      "minor": 2,
+      "patch": 1
+    },
+    "keywords": [
+      "mantle",
+      "default"
+    ],
+    "tokens": [
+      {
+        "name": "Wrapped Mantle",
+        "symbol": "WMNT",
+        "address": "0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8",
+        "chainId": 5000,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/SpookySwapV3/token-lists/refs/heads/main/Mantle/assets/WMNT.png"
+      },
+      {
+        "name": "USD Coin (Mantle)",
+        "symbol": "USDC",
+        "address": "0x09Bc4E0D864854c6aFB6eB9A9cdF58aC190D0dF9",
+        "chainId": 5000,
+        "decimals": 6,
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png"
+      }
+    ]
+  }
+  

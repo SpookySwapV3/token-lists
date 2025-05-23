@@ -1,0 +1,32 @@
+{
+    "name": "Bera Default List",
+    "timestamp": "2024-07-06T16:17:26Z",
+    "version": {
+      "major": 2,
+      "minor": 2,
+      "patch": 1
+    },
+    "keywords": [
+      "bera",
+      "default"
+    ],
+    "tokens": [
+      {
+        "name": "Wrapped Bera",
+        "symbol": "WBERA",
+        "address": "0x6969696969696969696969696969696969696969",
+        "chainId": 80094,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/SpookySwapV3/token-lists/refs/heads/main/Bera/assets/WBERA.png"
+      },
+      {
+        "name": "Stargate Bridged USDC (Berachain)",
+        "symbol": "USDC.E",
+        "address": "0x549943e04f40284185054145c6e4e9568c1d3241",
+        "chainId": 80094,
+        "decimals": 6,
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png"
+      }
+    ]
+  }
+  
