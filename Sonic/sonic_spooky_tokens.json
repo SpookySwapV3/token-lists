@@ -2,7 +2,7 @@
   "name": "SpookySwap Sonic Default List",
   "timestamp": "2025-03-26T10:17:27Z",
   "version": {
-    "major": 51,
+    "major": 55,
     "minor": 1,
     "patch": 1
   },
@@ -321,7 +321,7 @@
       "address": "0x6047828dc181963ba44974801FF68e538dA5eaF9",
       "chainId": 146,
       "decimals": 6,
-      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+      "logoURI": "https://sonicscan.org/token/images/tether_32.png"
     },
     {
       "name": "Fate Adventure",
@@ -572,14 +572,6 @@
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0xcc17dbc9eb1c29f90388fa197b983714fdaada46.png?size=lg&key=8d825e"
     },
     {
-      "name": "Solis",
-      "symbol": "SOLIS",
-      "address": "0x42ED764Ec17FF0bc4a0d0E6c09D1d6444233EfFD",
-      "chainId": 146,
-      "decimals": 9,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x42ed764ec17ff0bc4a0d0e6c09d1d6444233effd.png?size=lg&key=aae2d6"
-    },
-    {
       "name": "BurnX",
       "symbol": "BRNx",
       "address": "0x89F0462e56930CfEa4a481C1b9a0d26fA8BD94E6",
@@ -602,6 +594,62 @@
       "chainId": 146,
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x56192e94434c4fd3278b4fa53039293fb00de3db.png?size=lg&key=eaa019"
+    },
+    {
+      "name": "The_Herd_Mentality",
+      "symbol": "SHEEP",
+      "address": "0x7bf26dF0E9Db4F70f286c39A9cd3A77Cb7407aa4",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x7bf26df0e9db4f70f286c39a9cd3a77cb7407aa4.png?size=lg&key=a56154"
+    },
+    {
+      "name": "Meow",
+      "symbol": "MEOW",
+      "address": "0x59109F47f2b167f47e1615DA46Cc5f67DFf0E034",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x59109f47f2b167f47e1615da46cc5f67dff0e034.png?size=lg&key=6ffe7d"
+    },
+    {
+      "name": "MEGGHIEBVOZON",
+      "symbol": "MEGGY",
+      "address": "0x6FdAf5571D1F7D2e12281B349634c21Abf6b4C38",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x6fdaf5571d1f7d2e12281b349634c21abf6b4c38.png?size=lg&key=d2cfda"
+    },
+    {
+      "name": "Myrd Token",
+      "symbol": "MYRD",
+      "address": "0xddddd1b4a383dcB89938bC8b8964Cad3C632Fad0",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0xddddd1b4a383dcb89938bc8b8964cad3c632fad0.png?size=lg&key=6e2590"
+    },
+    {
+      "name": "Polter.Finance Protocol Token",
+      "symbol": "POLTER",
+      "address": "0x44BD4F79A95cF04505F2dc5C8e2e4043f67C7B07",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://sonicscan.org/token/images/polter_32.svg"
+    },
+    {
+      "name": "Stable Jack",
+      "symbol": "JACK",
+      "address": "0x9d549C39E5E1A0e7eF41D4b7d74c49f976102E36",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://cdn.dexscreener.com/fetch?src=https%3A%2F%2Fcoin-images.coingecko.com%2Fcoins%2Fimages%2F54835%2Flarge%2F200x200_token.png%3F1741969713"
+    },
+    {
+      "name": "SPIN IT",
+      "symbol": "SPIN",
+      "address": "0x777ecd9a05d4640133f6112F3aA777f1eD5AcACE",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x777ecd9a05d4640133f6112f3aa777f1ed5acace.png?size=lg&key=15d647"
     }
   ]
 }
