@@ -26,6 +26,94 @@
         "chainId": 5000,
         "decimals": 6,
         "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png"
+      },
+      {
+      "name": "Moe Token",
+      "symbol": "MOE",
+      "address": "0x4515A45337F461A11Ff0FE8aBF3c606AE5dC00c9",
+      "chainId": 5000,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/mantle/0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9.png?size=lg&key=430a64"
+      },
+      {
+      "name": "AUSD",
+      "symbol": "AUSD",
+      "address": "0x7e768f47dfDD5DAe874Aac233f1Bc5817137E453",
+      "chainId": 5000,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a/logo.png"
+      },
+      {
+      "name": "Catizen",
+      "symbol": "CATI",
+      "address": "0x1Bdd8878252DaddD3Af2ba30628813271294eDc0",
+      "chainId": 5000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x1Bdd8878252DaddD3Af2ba30628813271294eDc0/logo.png"
+      },
+      {
+      "name": "cmETH",
+      "symbol": "cmETH",
+      "address": "0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA",
+      "chainId": 5000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA/logo.png"
+      },
+      {
+      "name": "COOK",
+      "symbol": "COOK",
+      "address": "0x9F0C013016E8656bC256f948CD4B79ab25c7b94D",
+      "chainId": 5000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x9F0C013016E8656bC256f948CD4B79ab25c7b94D/logo.png"
+      },
+      {
+      "name": "JoeToken",
+      "symbol": "JOE",
+      "address": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+      "chainId": 5000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07/logo.png"
+      },
+      {
+      "name": "mETH",
+      "symbol": "mETH",
+      "address": "0xcDA86A272531e8640cD7F1a92c01839911B90bb0",
+      "chainId": 5000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xcDA86A272531e8640cD7F1a92c01839911B90bb0/logo.png"
+      },
+      {
+      "name": "Staked USDe",
+      "symbol": "sUSDe",
+      "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+      "chainId": 5000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2/logo.png"
+      },
+      {
+      "name": "Wrapped Mantle",
+      "symbol": "WMNT",
+      "address": "0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8",
+      "chainId": 5000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8/logo.png"
+      },
+      {
+      "name": "USDe",
+      "symbol": "USDe",
+      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      "chainId": 5000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34/logo.png"
+      },
+      {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "address": "0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2",
+      "chainId": 5000,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2/logo.png"
       }
     ]
   }
