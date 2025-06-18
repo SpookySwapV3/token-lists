@@ -26,6 +26,374 @@
         "chainId": 80094,
         "decimals": 6,
         "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png"
+      },
+      {
+      "name": "HoneyFun AI",
+      "symbol": "AIBERA",
+      "address": "0xCc6A16bcFda7D0ebE168F69Ef7b946e96A90E67F",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/berachain/0xcc6a16bcfda7d0ebe168f69ef7b946e96a90e67f.png?size=lg&key=b0577d"
+      },
+      {
+      "name": "Bearn BGT",
+      "symbol": "yBGT",
+      "address": "0x7e768f47dfDD5DAe874Aac233f1Bc5817137E453",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://berascan.com/token/images/bearnbgt_64.png"
+      },
+      {
+      "name": "Berachain Staked ETH",
+      "symbol": "beraETH",
+      "address": "0x6fc6545d5cDE268D5C7f1e476D444F39c995120d",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://berascan.com/token/images/beraETH.svg"
+      },
+      {
+      "name": "HarryPotterObamaSonic10Inu",
+      "symbol": "BITCOIN",
+      "address": "0x6B26f778bfae56CFb4Bf9b62c678d9D40e725227",
+      "chainId": 80094,
+      "decimals": 8,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/berachain/0x6b26f778bfae56cfb4bf9b62c678d9d40e725227.png?size=lg&key=93ce7c"
+      },
+      {
+      "name": "bm",
+      "symbol": "bm",
+      "address": "0xb749584F9fC418Cf905d54f462fdbFdC7462011b",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/berachain/0xb749584f9fc418cf905d54f462fdbfdc7462011b.png?size=lg&key=6ea237"
+      },
+      {
+      "name": "BeramoniumCoin",
+      "symbol": "BERAMO",
+      "address": "0x1F7210257FA157227D09449229a9266b0D581337",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/berachain/0x1f7210257fa157227d09449229a9266b0d581337.png?size=lg&key=f59496"
+      },
+      {
+      "name": "Bong Bears",
+      "symbol": "BONGA",
+      "address": "0x11909A68AE60903c96C35C059fcf262e54Df29d5",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/berachain/0x11909a68ae60903c96c35c059fcf262e54df29d5.png?size=lg&key=0fe6cf"
+      },
+      {
+      "name": "Bedrock",
+      "symbol": "BR",
+      "address": "0xd352dc6e5F0c45E2F2b38eb5565EB286A1ea4087",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://berascan.com/token/images/bedrock_64.png"
+      },
+      {
+      "name": "Bread",
+      "symbol": "BREAD",
+      "address": "0x0003eEDFdd020bf60D10cf684ABAc7C4534B7eAd",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/berachain/0x0003eedfdd020bf60d10cf684abac7c4534b7ead.png?size=lg&key=ee1a18"
+      },
+      {
+      "name": "BeraXBT",
+      "symbol": "BIXBT",
+      "address": "0x147c9A7F5265D7cA9a671C3817b212a0cF88856e",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/beraxbt.png"
+      },
+      {
+      "name": "Dolomite",
+      "symbol": "DOLO",
+      "address": "0x0F81001eF0A83ecCE5ccebf63EB302c70a39a654",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/berachain/0x0f81001ef0a83ecce5ccebf63eb302c70a39a654.png?size=lg&key=235c46"
+      },
+      {
+      "name": "ether.fi BTC",
+      "symbol": "eBTC",
+      "address": "0x657e8C867D8B37dCC18fA4Caead9C45EB088C642",
+      "chainId": 80094,
+      "decimals": 8,
+      "logoURI": "https://static.kodiak.finance/tokens/ebtc.png"
+      },
+      {
+      "name": "GetRichQuick",
+      "symbol": "GRQ",
+      "address": "0xcA9088895e3390E503cac9ae95abaccdba20822e",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/ebtc.png"
+      },
+      {
+      "name": "GetRichQuick",
+      "symbol": "GRQ",
+      "address": "0xcA9088895e3390E503cac9ae95abaccdba20822e",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/berachain/0xca9088895e3390e503cac9ae95abaccdba20822e.png?size=lg&key=c1f0e6"
+      },
+      {
+      "name": "henlo",
+      "symbol": "HENLO",
+      "address": "0xb2F776e9c1C926C4b2e54182Fac058dA9Af0B6A5",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/berachain/0xb2f776e9c1c926c4b2e54182fac058da9af0b6a5.png?size=lg&key=b8c188"
+      },
+      {
+      "name": "Holdstation",
+      "symbol": "HOLD",
+      "address": "0xFF0a636Dfc44Bb0129b631cDd38D21B613290c98",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/berachain/0xff0a636dfc44bb0129b631cdd38d21b613290c98.png?size=lg&key=10bf26"
+      },
+      {
+      "name": "Honey",
+      "symbol": "HONEY",
+      "address": "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://berascan.com/token/images/honeybera_32.png"
+      },
+      {
+      "name": "Infared BERA",
+      "symbol": "iBERA",
+      "address": "0x9b6761bf2397Bb5a6624a856cC84A3A14Dcd3fe5",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://berascan.com/token/images/ibera_64.svg"
+      },
+      {
+      "name": "Infared BGT",
+      "symbol": "iBGT",
+      "address": "0xac03CABA51e17c86c921E1f6CBFBdC91F8BB2E6b",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://berascan.com/token/images/ibgt_64.svg"
+      },
+      {
+      "name": "Lair",
+      "symbol": "LAIR",
+      "address": "0xf3530788DEB3d21E8fA2c3CBBF93317FB38a0D3C",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://berascan.com/token/images/lairtoken_32.svg"
+      },
+      {
+      "name": "Liquid BGT",
+      "symbol": "LGBT",
+      "address": "0xBaadCC2962417C01Af99fb2B7C75706B9bd6Babe",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://berascan.com/token/images/lbgt_32.svg"
+      },
+      {
+      "name": "Lombard Staked BTC",
+      "symbol": "LBTC",
+      "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+      "chainId": 80094,
+      "decimals": 8,
+      "logoURI": "https://berascan.com/token/images/lombardfinance_32.png"
+      },
+      {
+      "name": "Locks",
+      "symbol": "LOCKS",
+      "address": "0xb7E448E5677D212B8C8Da7D6312E8Afc49800466",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/berachain/0xb7e448e5677d212b8c8da7d6312e8afc49800466.png?size=lg&key=886ad5"
+      },
+      {
+      "name": "NavFinance",
+      "symbol": "NAV",
+      "address": "0x6536cEAD649249cae42FC9bfb1F999429b3ec755",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://berascan.com/token/images/navfinance_64.png"
+      },
+      {
+      "name": "Nectar",
+      "symbol": "NECT",
+      "address": "0x1cE0a25D13CE4d52071aE7e02Cf1F6606F4C79d3",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://berascan.com/token/images/beraborrownect_64.png"
+      },
+      {
+      "name": "Olympus",
+      "symbol": "OHM",
+      "address": "0x18878Df23e2a36f81e820e4b47b4A40576D3159C",
+      "chainId": 80094,
+      "decimals": 9,
+      "logoURI": "https://berascan.com/token/images/olympusdao2_32.png"
+      },
+      {
+      "name": "Ooga Token",
+      "symbol": "OOGA",
+      "address": "0x009af46Df68DB0E76BFe9EA35663f6Ed17877956",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/berachain/0x009af46df68db0e76bfe9ea35663f6ed17877956.png?size=lg&key=2d75db"
+      },
+      {
+      "name": "POLLEN",
+      "symbol": "POLLEN",
+      "address": "0xC99e948E9D183848a6c4F5E6C1d225F02f171d79",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/berachain/0xc99e948e9d183848a6c4f5e6c1d225f02f171d79.png?size=lg&key=7880b8"
+      },
+      {
+      "name": "Quod In Altum",
+      "symbol": "QIA",
+      "address": "0x41Fc191d145307667EA3e50F244B78de9CDDF53f",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/berachain/0x41fc191d145307667ea3e50f244b78de9cddf53f.png?size=lg&key=4c683e"
+      },
+      {
+      "name": "Ramen Token",
+      "symbol": "RAMEN",
+      "address": "0xb8B1Af593Dc37B33a2c87C8Db1c9051FC32858B7",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/berachain/0xb8b1af593dc37b33a2c87c8db1c9051fc32858b7.png?size=lg&key=f330c0"
+      },
+      {
+      "name": "Reservoir Stablecoin",
+      "symbol": "rUSD",
+      "address": "0x09D4214C03D01F49544C0448DBE3A27f768F2b34",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://berascan.com/token/images/reservoirrusd_64.png"
+      },
+      {
+      "name": "GRQ Share",
+      "symbol": "sGRQ",
+      "address": "0x0b6fb88683bA9D36ac8365AC5399AE7fd658A314",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/berachain/0x0b6fb88683ba9d36ac8365ac5399ae7fd658a314.png?size=lg&key=190c68"
+      },
+      {
+      "name": "Solv BTC",
+      "symbol": "SolvBTC",
+      "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://berascan.com/token/images/solvfinance_32.png?v=2"
+      },
+      {
+      "name": "Staked USDe",
+      "symbol": "sUSDe",
+      "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://berascan.com/token/images/stakedusde_32.png"
+      },
+      {
+      "name": "uniBTC",
+      "symbol": "uniBTC",
+      "address": "0xC3827A4BC8224ee2D116637023b124CED6db6e90",
+      "chainId": 80094,
+      "decimals": 8,
+      "logoURI": "https://berascan.com/token/images/bedrockunibtc_32.png"
+      },
+      {
+      "name": "USDa",
+      "symbol": "USDa",
+      "address": "0xff12470a969Dd362EB6595FFB44C82c959Fe9ACc",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://berascan.com/token/images/usdavalon_32.png"
+      },
+      {
+      "name": "USDe",
+      "symbol": "USDe",
+      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://berascan.com/token/images/ethenausde_32.svg"
+      },
+      {
+      "name": "USD₮0",
+      "symbol": "USD₮0",
+      "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+      "chainId": 80094,
+      "decimals": 6,
+      "logoURI": "https://berascan.com/token/images/usdt0_64.png"
+      },
+      {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+      "chainId": 80094,
+      "decimals": 8,
+      "logoURI": "https://berascan.com/token/images/wrappedbtc_32.svg"
+      },
+      {
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "address": "0x7DCC39B4d1C53CB31e1aBc0e358b43987FEF80f7",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://berascan.com/token/images/etherfiweeth_32.png"
+      },
+      {
+      "name": "WETH",
+      "symbol": "WETH",
+      "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://berascan.com/token/images/wethflow_32.png"
+      },
+      {
+      "name": "Wrapped gBERA",
+      "symbol": "wgBERA",
+      "address": "0xD77552D3849ab4D8C3b189A9582d0ba4C1F4f912",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/berachain/0xd77552d3849ab4d8c3b189a9582d0ba4c1f4f912.png?size=lg&key=47a95d"
+      },
+      {
+      "name": "Wizzwoods Token",
+      "symbol": "WIZZ",
+      "address": "0x01C8A5ccAD23A4D3764eF71c403862160Aa2913a",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://berascan.com/token/images/wizzwoods_32.svg"
+      },
+      {
+      "name": "xSolvBTC",
+      "symbol": "xSolvBTC",
+      "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://berascan.com/token/images/solvbtcbbn_32.png"
+      },
+      {
+      "name": "Bearn BGT",
+      "symbol": "yBGT",
+      "address": "0x7e768f47dfDD5DAe874Aac233f1Bc5817137E453",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://berascan.com/token/images/bearnbgt_64.png"
+      },
+      {
+      "name": "YEET",
+      "symbol": "YEET",
+      "address": "0x08A38Caa631DE329FF2DAD1656CE789F31AF3142",
+      "chainId": 80094,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/berachain/0x08a38caa631de329ff2dad1656ce789f31af3142.png?size=lg&key=8385e9"
       }
     ]
   }
