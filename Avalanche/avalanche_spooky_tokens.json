@@ -1,0 +1,32 @@
+{
+    "name": "Avalanche Default List",
+    "timestamp": "2024-07-06T16:17:26Z",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "patch": 1
+    },
+    "keywords": [
+      "arbitrum",
+      "default"
+    ],
+    "tokens": [
+      {
+        "name": "Wrapped AVAX",
+        "symbol": "WAVAX",
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "chainId": 43114,
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/15075/standard/wrapped-avax.png"
+      },
+      {
+        "name": "USDC Token",
+        "symbol": "USDC",
+        "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+        "chainId": 43114,
+        "decimals": 6,
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png"
+      }
+    ]
+  }
+  

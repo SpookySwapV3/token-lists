@@ -1,0 +1,32 @@
+{
+    "name": "Arbitrum Default List",
+    "timestamp": "2024-07-06T16:17:26Z",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "patch": 1
+    },
+    "keywords": [
+      "arbitrum",
+      "default"
+    ],
+    "tokens": [
+      {
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/279/standard/ethereum.png"
+      },
+      {
+        "name": "USD//C",
+        "symbol": "USDC",
+        "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "chainId": 42161,
+        "decimals": 6,
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png"
+      }
+    ]
+  }
+  

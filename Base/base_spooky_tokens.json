@@ -1,0 +1,32 @@
+{
+    "name": "Base Default List",
+    "timestamp": "2024-07-06T16:17:26Z",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "patch": 1
+    },
+    "keywords": [
+      "base",
+      "default"
+    ],
+    "tokens": [
+      {
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/279/standard/ethereum.png"
+      },
+      {
+        "name": "USD Base Coin",
+        "symbol": "USDbC",
+        "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+        "chainId": 8453,
+        "decimals": 6,
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png"
+      }
+    ]
+  }
+  
