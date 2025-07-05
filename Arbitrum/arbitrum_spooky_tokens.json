@@ -2,7 +2,7 @@
     "name": "Arbitrum Default List",
     "timestamp": "2024-07-06T16:17:26Z",
     "version": {
-      "major": 3,
+      "major": 4,
       "minor": 2,
       "patch": 1
     },
@@ -26,6 +26,422 @@
         "chainId": 42161,
         "decimals": 6,
         "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png"
+      },
+      {
+        "name": "ApeCoin",
+        "symbol": "APE",
+        "address": "0x7f9FBf9bDd3F4105C478b996B648FE6e828a1e98",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/apecoinarb_32.png"
+      },
+      {
+        "name": "Arbitrum",
+        "symbol": "ARB",
+        "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/arbitrumone2_32_new.png"
+      },
+      {
+        "name": "Aethir Token",
+        "symbol": "ATH",
+        "address": "0xc87B37a581ec3257B734886d9d3a581F5A9d056c",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://dd.dexscreener.com/ds-data/tokens/arbitrum/0xc87b37a581ec3257b734886d9d3a581f5a9d056c.png?size=lg&key=10fe6d"
+      },
+      {
+        "name": "Axelar Wrapped USDC",
+        "symbol": "axlUSDC",
+        "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+        "chainId": 42161,
+        "decimals": 6,
+        "logoURI": "https://arbiscan.io/token/images/axelarnetwork_32.png"
+      },
+      {
+        "name": "Boop",
+        "symbol": "Boop",
+        "address": "0x13A7DeDb7169a17bE92B0E3C7C2315B46f4772B3",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/boopthecoin_32.png"
+      },
+      {
+        "name": "PancakeSwap Token",
+        "symbol": "Cake",
+        "address": "0x1b896893dfc86bb67Cf57767298b9073D2c1bA2c",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/pancaketoken_32.png"
+      },
+      {
+        "name": "CoW Protocol Token",
+        "symbol": "COW",
+        "address": "0xcb8b5CD20BdCaea9a010aC1F8d835824F5C87A04",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/cowprotocolv2new_32.png"
+      },
+      {
+        "name": "Curve DAO Token",
+        "symbol": "CRV",
+        "address": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/Curvefi_32.png"
+      },
+      {
+        "name": "Eigenpie",
+        "symbol": "EGP",
+        "address": "0x7E7a7C916c19a45769f6BDAF91087f93c6C12F78",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://arbiscan.io/token/images/eigenpie_32.png"
+      },
+      {
+        "name": "Equilibria Token",
+        "symbol": "EQB",
+        "address": "0xBfbCFe8873fE28Dfa25f1099282b088D52bbAD9C",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/equlibria_32.png"
+      },
+      {
+        "name": "ether.fi governance token",
+        "symbol": "ETHFI",
+        "address": "0x7189fb5B6504bbfF6a852B13B7B82a3c118fDc27",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/ethfi_32.png"
+      },
+      {
+        "name": "Renzo Restaked ETH",
+        "symbol": "ezETH",
+        "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/renzoezeth_32.png"
+      },
+      {
+        "name": "Frax",
+        "symbol": "FRAX",
+        "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/frxcanonarb_32.png"
+      },
+      {
+        "name": "Game7",
+        "symbol": "G7",
+        "address": "0xF18e4466F26B4cA55bbAb890b314a54976E45B17",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/g7_32.png"
+      },
+      {
+        "name": "GMX",
+        "symbol": "GMX",
+        "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/gmxarbi_32.png"
+      },
+      {
+        "name": "Gains Network",
+        "symbol": "GNS",
+        "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/gns_32.png"
+      },
+      {
+        "name": "Camelot token",
+        "symbol": "GRAIL",
+        "address": "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/camelotexchange_32.png"
+      },
+      {
+        "name": "Graph Token",
+        "symbol": "GRT",
+        "address": "0x9623063377AD1B27544C965cCd7342f7EA7e88C7",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/TheGraph_32.png"
+      },
+      {
+        "name": "GameSwift",
+        "symbol": "GSWIFT",
+        "address": "0x580E933D90091b9cE380740E3a4A39c67eB85B4c",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/gswiftdao_32.png"
+      },
+      {
+        "name": "Gains Network USDC",
+        "symbol": "gUSDC",
+        "address": "0xd3443ee1e91aF28e5FB858Fbd0D72A63bA8046E0",
+        "chainId": 42161,
+        "decimals": 6,
+        "logoURI": "https://arbiscan.io/token/images/gainsgusdc_32.png"
+      },
+      {
+        "name": "Hegic",
+        "symbol": "HEGIC",
+        "address": "0x431402e8b9dE9aa016C743880e04E517074D8cEC",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/hegic_32.png"
+      },
+      {
+        "name": "KIMA",
+        "symbol": "KIMA",
+        "address": "0x94fCD9c18f99538C0f7C61c5500cA79F0D5C4dab",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/kima_32.png"
+      },
+      {
+        "name": "Lido DAO Token",
+        "symbol": "LDO",
+        "address": "0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/lidodao_32.png"
+      },
+      {
+        "name": "ChainLink Token",
+        "symbol": "LINK",
+        "address": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/chainlink_32.png?v=1"
+      },
+      {
+        "name": "Livepeer Token",
+        "symbol": "LPT",
+        "address": "0x289ba1701C2F088cf0faf8B3705246331cB8A839",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/livepeer_32.png"
+      },
+      {
+        "name": "MAGIC",
+        "symbol": "MAGIC",
+        "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/magictoken_64.png/"
+      },
+      {
+        "name": "MCDEX Token",
+        "symbol": "MCB",
+        "address": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/mcdextoken_32.png?=v234"
+      },
+      {
+        "name": "Magpie Token",
+        "symbol": "MGP",
+        "address": "0xa61F74247455A40b01b0559ff6274441FAfa22A3",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/magpiexyz2_32.png"
+      },
+      {
+        "name": "Magic Internet Money",
+        "symbol": "MIM",
+        "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/mimstablecoin_32.png"
+      },
+      {
+        "name": "Nya",
+        "symbol": "NYA",
+        "address": "0x38F9bf9dCe51833Ec7f03C9dC218197999999999",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/nya_32.png"
+      },
+      {
+        "name": "Pendle",
+        "symbol": "PENDLE",
+        "address": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/pendlefin_32.png"
+      },
+      {
+        "name": "Rocket Pool ETH",
+        "symbol": "rETH",
+        "address": "0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/rocketpooleth_32.png"
+      },
+      {
+        "name": "Solv BTC",
+        "symbol": "SolvBTC",
+        "address": "0x3647c54c4c2C65bC7a2D63c0Da2809B399DBBDC0",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/solvbtc_64.png"
+      },
+      {
+        "name": "Sperax",
+        "symbol": "SPA",
+        "address": "0x5575552988A3A80504bBaeB1311674fCFd40aD4B",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/speraxtoken_32.png"
+      },
+      {
+        "name": "Spell Token",
+        "symbol": "SPELL",
+        "address": "0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/spelltoken_32.png"
+      },
+      {
+        "name": "Subsquid",
+        "symbol": "SQD",
+        "address": "0x1337420dED5ADb9980CFc35f8f2B054ea86f8aB1",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/subsquid_new_32.png"
+      },
+      {
+        "name": "StarHeroes",
+        "symbol": "STAR",
+        "address": "0xB299751B088336E165dA313c33e3195B8c6663A6",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/starheroes_32.png"
+      },
+      {
+        "name": "StargateToken",
+        "symbol": "STG",
+        "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/stargate_32.png"
+      },
+      {
+        "name": "SushiToken",
+        "symbol": "SUSHI",
+        "address": "0xd4d42F0b6DEF4CE0383636770eF773390d85c61A",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/sushitoken_32.png"
+      },
+      {
+        "name": "Arbitrum tBTC v2",
+        "symbol": "tBTC",
+        "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/thresholdtbtc_32.png"
+      },
+      {
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "address": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/uniswap_32.png"
+      },
+      {
+        "name": "xUSD",
+        "symbol": "xUSD",
+        "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+        "chainId": 42161,
+        "decimals": 6,
+        "logoURI": "https://arbiscan.io/token/images/xusd_32.svg"
+      },
+      {
+        "name": "WINR",
+        "symbol": "WINR",
+        "address": "0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/winr_32.png"
+      },
+      {
+        "name": "USDe",
+        "symbol": "USDe",
+        "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/ethenausde_32.png"
+      },
+      {
+        "name": "USD₮0",
+        "symbol": "USD₮0",
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "chainId": 42161,
+        "decimals": 6,
+        "logoURI": "https://arbiscan.io/token/images/usdt0_64.png"
+      },
+      {
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "chainId": 42161,
+        "decimals": 8,
+        "logoURI": "https://arbiscan.io/token/images/wbtc_28.png"
+      },
+      {
+        "name": "Wrapped eETH",
+        "symbol": "weETH",
+        "address": "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/etherfiweeth_32.png"
+      },
+      {
+        "name": "Wootrade Network",
+        "symbol": "WOO",
+        "address": "0xcAFcD85D8ca7Ad1e1C6F82F651fA15E33AEfD07b",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/wootrade_32.png"
+      },
+      {
+        "name": "Wrapped liquid staked Ether 2.0",
+        "symbol": "wstETH",
+        "address": "0x5979D7b546E38E414F7E9822514be443A4800529",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/lido_32.png"
+      },
+      {
+        "name": "Xai",
+        "symbol": "XAI",
+        "address": "0x4Cb9a7AE498CEDcBb5EAe9f25736aE7d428C9D66",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/xaitoken_32.png?v=12"
+      },
+      {
+        "name": "LayerZero",
+        "symbol": "ZRO",
+        "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/zro_32.png"
+      },
+      {
+        "name": "ZTX",
+        "symbol": "ZTX",
+        "address": "0x1C43D05be7E5b54D506e3DdB6f0305e8A66CD04e",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/ztx_32.png?=v8873"
       }
     ]
   }
