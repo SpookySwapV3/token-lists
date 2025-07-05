@@ -2,7 +2,7 @@
     "name": "Base Default List",
     "timestamp": "2024-07-06T16:17:26Z",
     "version": {
-      "major": 3,
+      "major": 4,
       "minor": 2,
       "patch": 1
     },
@@ -26,6 +26,638 @@
         "chainId": 8453,
         "decimals": 6,
         "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png"
+      },
+      {
+        "name": "USDC",
+        "symbol": "USDC",
+        "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+        "chainId": 8453,
+        "decimals": 6,
+        "logoURI": "https://basescan.org/token/images/centre-usdc_28.png"
+      },
+      {
+        "name": "Coinbase Wrapped BTC",
+        "symbol": "cbBTC",
+        "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+        "chainId": 8453,
+        "decimals": 8,
+        "logoURI": "https://basescan.org/token/images/cbbtc_32.png"
+      },
+      {
+        "name": "Wrapped liquid staked Ether 2.0",
+        "symbol": "wstETH",
+        "address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/wsteth3_32.png"
+      },
+      {
+        "name": "USD+",
+        "symbol": "USD+",
+        "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+        "chainId": 8453,
+        "decimals": 6,
+        "logoURI": "https://basescan.org/token/images/usdplus_32.png"
+      },
+      {
+        "name": "EURC",
+        "symbol": "EURC",
+        "address": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+        "chainId": 8453,
+        "decimals": 6,
+        "logoURI": "https://basescan.org/token/images/circleeurc_32.png"
+      },
+      {
+        "name": "DOLA",
+        "symbol": "Dola USD Stablecoin",
+        "address": "0x4621b7A9c75199271F773Ebd9A499dbd165c3191",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/inversedola2_32.png"
+      },
+      {
+        "name": "cbETH",
+        "symbol": "Coinbase Wrapped Staked ETH",
+        "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/coinbasecbeth_32.png"
+      },
+      {
+        "name": "bsdETH",
+        "symbol": "Based ETH",
+        "address": "0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/bsdeth_32.png"
+      },
+      {
+        "name": "PAAL AI",
+        "symbol": "$PAAL",
+        "address": "0xd52333441c0553fACb259600FA833a69186893A5",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0xd52333441c0553facb259600fa833a69186893a5.png?size=lg&key=0b1830"
+      },
+      {
+        "name": "Arcadia",
+        "symbol": "AAA",
+        "address": "0xaaa843fb2916c0B57454270418E121C626402AAa",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/arcadiafinance_32.svg"
+      },
+      {
+        "name": "Aave Token",
+        "symbol": "AAVE",
+        "address": "0x63706e401c06ac8513145b7687A14804d17f814b",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/aave_32.svg"
+      },
+      {
+        "name": "Acolyte by Virtuals",
+        "symbol": "ACOLYT",
+        "address": "0x79dacb99A8698052a9898E81Fdf883c29efb93cb",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0x79dacb99a8698052a9898e81fdf883c29efb93cb.png?size=lg&key=41920f"
+      },
+      {
+        "name": "AION 5100",
+        "symbol": "AION",
+        "address": "0xfc48314ad4aD5bD36a84E8307b86A68A01D95d9C",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0xfc48314ad4ad5bd36a84e8307b86a68a01d95d9c.png?size=lg&key=a7a001"
+      },
+      {
+        "name": "aixbt by Virtuals",
+        "symbol": "AIXBT",
+        "address": "0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/aixbtbyvirtuals_32.png"
+      },
+      {
+        "name": "aixCB by Virtuals",
+        "symbol": "AIXCB",
+        "address": "0x76C71F1703Fbf19FFdcF3051E1e684Cb9934510f",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0x76c71f1703fbf19ffdcf3051e1e684cb9934510f.png?size=lg&key=c7599e"
+      },
+      {
+        "name": "Anzen Token",
+        "symbol": "ANZ",
+        "address": "0xeeC468333ccc16D4BF1cEf497A56cf8C0aAe4Ca3",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/anzenfinance_32.png"
+      },
+      {
+        "name": "Auki Token",
+        "symbol": "AUKI",
+        "address": "0xF9569cFb8FD265e91aa478d86ae8c78b8AF55Df4",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/aukilabs_32.png"
+      },
+      {
+        "name": "Avail (Wormhole)",
+        "symbol": "AVAIL",
+        "address": "0xd89d90d26B48940FA8F58385Fe84625d468E057a",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/avail_32.png"
+      },
+      {
+        "name": "B3 (Base)",
+        "symbol": "B3",
+        "address": "0xB3B32F9f8827D4634fE7d973Fa1034Ec9fdDB3B3",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/b3_32.png"
+      },
+      {
+        "name": "AWE Network",
+        "symbol": "AWE",
+        "address": "0x1B4617734C43F6159F3a70b7E06d883647512778",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/awe_32.svg"
+      },
+      {
+        "name": "Base is for everyone",
+        "symbol": "Base is for everyone",
+        "address": "0xD769d56f479E9E72a77bB1523e866A33098Feec5",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0xd769d56f479e9e72a77bb1523e866a33098feec5.png?size=lg&key=273a01"
+      },
+      {
+        "name": "Basenji",
+        "symbol": "BENJI",
+        "address": "0xBC45647eA894030a4E9801Ec03479739FA2485F0",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/basenji_32.png"
+      },
+      {
+        "name": "CreatorBid",
+        "symbol": "BID",
+        "address": "0xa1832f7F4e534aE557f9B5AB76dE54B1873e498B",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0xa1832f7f4e534ae557f9b5ab76de54b1873e498b.png?size=lg&key=1d2a7f"
+      },
+      {
+        "name": "BasisOS by Virtuals",
+        "symbol": "BIOS",
+        "address": "0x73Cb479f2ccf77BAd90BcDA91e3987358437240A",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/bios_64.png"
+      },
+      {
+        "name": "BankrCoin",
+        "symbol": "BNKR",
+        "address": "0x22aF33FE49fD1Fa80c7149773dDe5890D3c76F3b",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0x22af33fe49fd1fa80c7149773dde5890d3c76f3b.png?size=lg&key=96f087"
+      },
+      {
+        "name": "BOTTO",
+        "symbol": "BOTTO",
+        "address": "0x24914CB6BD01E6a0CF2a9c0478e33c25926e6a0c",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/botto_32.svg"
+      },
+      {
+        "name": "Brett",
+        "symbol": "BRETT",
+        "address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/brettbased_32.png"
+      },
+      {
+        "name": "CAD Coin",
+        "symbol": "CADC",
+        "address": "0x043eB4B75d0805c43D7C834902E335621983Cf03",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/paytriecad_64.png"
+      },
+      {
+        "name": "Coinbase Wrapped DOGE",
+        "symbol": "cbDOGE",
+        "address": "0xcbD06E5A2B0C65597161de254AA074E489dEb510",
+        "chainId": 8453,
+        "decimals": 8,
+        "logoURI": "https://basescan.org/token/images/cbdoge_32.png"
+      },
+      {
+        "name": "Coinbase Wrapped XRP",
+        "symbol": "cbXRP",
+        "address": "0xcb585250f852C6c6bf90434AB21A00f02833a4af",
+        "chainId": 8453,
+        "decimals": 6,
+        "logoURI": "https://basescan.org/token/images/cbxrp_32.png"
+      },
+      {
+        "name": "tokenbot",
+        "symbol": "CLANKER",
+        "address": "0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/CLANKER_32.png"
+      },
+      {
+        "name": "Degen",
+        "symbol": "DEGEN",
+        "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/degentips_32.png"
+      },
+      {
+        "name": "doginme",
+        "symbol": "doginme",
+        "address": "0x6921B130D297cc43754afba22e5EAc0FBf8Db75b",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/doginmeme2_32.png"
+      },
+      {
+        "name": "DebtReliefBot",
+        "symbol": "DRB",
+        "address": "0x3ec2156D4c0A9CBdAB4a016633b7BcF6a8d68Ea2",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0x3ec2156d4c0a9cbdab4a016633b7bcf6a8d68ea2.png?size=lg&key=edc654"
+      },
+      {
+        "name": "Edge",
+        "symbol": "EDGE",
+        "address": "0xED6E000dEF95780fb89734c07EE2ce9F6dcAf110",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/edge_32.png?=v3"
+      },
+      {
+        "name": "Renzo Restaked ETH",
+        "symbol": "ezETH",
+        "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/ezETHv2_32.png?=v2"
+      },
+      {
+        "name": "FAI",
+        "symbol": "FAI",
+        "address": "0xb33Ff54b9F7242EF1593d2C9Bcd8f9df46c77935",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/freysaai_32.png"
+      },
+      {
+        "name": "Fantom Bomb",
+        "symbol": "fBOMB",
+        "address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/fbomb_32.png"
+      },
+      {
+        "name": "Flayer",
+        "symbol": "FLAY",
+        "address": "0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/flaunchflayer_32.png"
+      },
+      {
+        "name": "GAME by Virtuals",
+        "symbol": "GAME",
+        "address": "0x1C4CcA7C5DB003824208aDDA61Bd749e55F463a3",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/gamebyvirtuals_64.png"
+      },
+      {
+        "name": "Giza",
+        "symbol": "GIZA",
+        "address": "0x590830dFDf9A3F68aFCDdE2694773dEBDF267774",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/gizatokenlight_32.svg"
+      },
+      {
+        "name": "Home",
+        "symbol": "HOME",
+        "address": "0x4BfAa776991E85e5f8b1255461cbbd216cFc714f",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/defiapp_32.png"
+      },
+      {
+        "name": "KAITO",
+        "symbol": "KAITO",
+        "address": "0x98d0baa52b2D063E780DE12F615f963Fe8537553",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/kaito_64.png"
+      },
+      {
+        "name": "Keyboard Cat",
+        "symbol": "KEYCAT",
+        "address": "0x9a26F5433671751C3276a065f57e5a02D2817973",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/keyboardcat_32.png"
+      },
+      {
+        "name": "Keeta",
+        "symbol": "KTA",
+        "address": "0xc0634090F2Fe6c6d75e61Be2b949464aBB498973",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/keeta_32.png"
+      },
+      {
+        "name": "Libertum",
+        "symbol": "LBM",
+        "address": "0x56A38E7216304108E841579041249fEb236C887b",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0x56a38e7216304108e841579041249feb236c887b.png?size=lg&key=40f768"
+      },
+      {
+        "name": "Lombard Staked BTC",
+        "symbol": "LBTC",
+        "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+        "chainId": 8453,
+        "decimals": 8,
+        "logoURI": "https://basescan.org/token/images/lombardlbtc_32.png"
+      },
+      {
+        "name": "Liquid Staked ETH",
+        "symbol": "LsETH",
+        "address": "0xB29749498954A3A821ec37BdE86e386dF3cE30B6",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/liquidsteth_32.svg"
+      },
+      {
+        "name": "Luna by Virtuals",
+        "symbol": "LUNA",
+        "address": "0x55cD6469F597452B5A7536e2CD98fDE4c1247ee4",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/luna_32.png"
+      },
+      {
+        "name": "Mamo",
+        "symbol": "MAMO",
+        "address": "0x7300B37DfdfAb110d83290A29DfB31B1740219fE",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/mamobot_32.png"
+      },
+      {
+        "name": "Mr. Miggles",
+        "symbol": "MIGGLES",
+        "address": "0xB1a03EdA10342529bBF8EB700a06C60441fEf25d",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/mistermiggles2_64.png"
+      },
+      {
+        "name": "Mog Coin",
+        "symbol": "Mog",
+        "address": "0x2Da56AcB9Ea78330f947bD57C54119Debda7AF71",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/mogcoinnew_32.png"
+      },
+      {
+        "name": "Morpho Token",
+        "symbol": "MORPHO",
+        "address": "0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/morphoorg_new_32.png"
+      },
+      {
+        "name": "noice",
+        "symbol": "noice",
+        "address": "0x9Cb41FD9dC6891BAe8187029461bfAADF6CC0C69",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0x9cb41fd9dc6891bae8187029461bfaadf6cc0c69.png?size=lg&key=b5a0c9"
+      },
+      {
+        "name": "OpenUSDT",
+        "symbol": "oUSDT",
+        "address": "0x1217BfE6c773EEC6cc4A38b5Dc45B92292B6E189",
+        "chainId": 8453,
+        "decimals": 6,
+        "logoURI": "https://basescan.org/token/images/OpenUSDT_32.png"
+      },
+      {
+        "name": "OX Coin",
+        "symbol": "OX",
+        "address": "0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/oxfun2_32.png"
+      },
+      {
+        "name": "Pendle",
+        "symbol": "PENDLE",
+        "address": "0xA99F6e6785Da0F5d6fB42495Fe424BCE029Eeb3E",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/pendlefin_32.png"
+      },
+      {
+        "name": "Pocket Network",
+        "symbol": "POKT",
+        "address": "0x764A726d9ceD0433A8D7643335919dEb03a9a935",
+        "chainId": 8453,
+        "decimals": 6,
+        "logoURI": "https://basescan.org/token/images/poktnetwork_32.png"
+      },
+      {
+      "name": "REI",
+       "symbol": "REI",
+        "address": "0x6B2504A03ca4D43d0D73776F6aD46dAb2F2a4cFD",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/reinetwork_64.png"
+      },
+      {
+        "name": "Rocket Pool ETH",
+        "symbol": "rETH",
+        "address": "0xB6fe221Fe9EeF5aBa221c348bA20A1Bf5e73624c",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/rocketpooleth_32.png"
+      },
+      {
+        "name": "Reflect",
+        "symbol": "RFL",
+        "address": "0x6e2c81b6c2C0e02360F00a0dA694e489acB0b05e",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0x6e2c81b6c2c0e02360f00a0da694e489acb0b05e.png?size=lg&key=1c1005"
+      },
+      {
+        "name": "Sign",
+        "symbol": "SIGN",
+        "address": "0x868FCEd65edBF0056c4163515dD840e9f287A4c3",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/signtoken_64.png"
+      },
+      {
+        "name": "SKI MASK DOG",
+        "symbol": "SKI",
+        "address": "0x768BE13e1680b5ebE0024C42c896E3dB59ec0149",
+        "chainId": 8453,
+        "decimals": 9,
+        "logoURI": "https://basescan.org/token/images/skimaskdog_32.png"
+      },
+      {
+        "name": "SPX6900",
+        "symbol": "SPX",
+        "address": "0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C",
+        "chainId": 8453,
+        "decimals": 8,
+        "logoURI": "https://basescan.org/token/images/spx6900_32.png"
+      },
+      {
+        "name": "Base tBTC v2",
+        "symbol": "tBTC",
+        "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/tbtc_32.png"
+      },
+      {
+        "name": "Ribbita by Virtuals",
+        "symbol": "TIBBIR",
+        "address": "0xA4A2E2ca3fBfE21aed83471D28b6f65A233C6e00",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0xa4a2e2ca3fbfe21aed83471d28b6f65a233c6e00.png?size=lg&key=6e7601"
+      },
+      {
+        "name": "Toshi",
+        "symbol": "TOSHI",
+        "address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/toshi_32.png"
+      },
+      {
+        "name": "USDS Stablecoin",
+        "symbol": "USDS",
+        "address": "0x820C137fa70C8691f0e44Dc420a5e53c168921Dc",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/skyusds_32.svg"
+      },
+      {
+        "name": "Bridged Tether USD",
+        "symbol": "USDT",
+        "address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
+        "chainId": 8453,
+        "decimals": 6,
+        "logoURI": "https://basescan.org/token/images/bridgedusdt2_ofc_64.png"
+      },
+      {
+        "name": "Solana (Universal)",
+        "symbol": "uSOL",
+        "address": "0x9B8Df6E244526ab5F6e6400d331DB28C8fdDdb55",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/usol_32.png"
+      },
+      {
+        "name": "USSI",
+        "symbol": "USSI",
+        "address": "0x3a46ed8FCeb6eF1ADA2E4600A522AE7e24D2Ed18",
+        "chainId": 8453,
+        "decimals": 8,
+        "logoURI": "https://basescan.org/token/images/sosossiussi_64.png"
+      },
+      {
+        "name": "Sui (Universal)",
+        "symbol": "uSUI",
+        "address": "0xb0505e5a99abd03d94a1169e638B78EDfEd26ea4",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/usui_32.png"
+      },
+      {
+        "name": "Virtual Protocol",
+        "symbol": "VIRTUAL",
+        "address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/virtualprotocol_32.png"
+      },
+      {
+        "name": "Venice Token",
+        "symbol": "VVV",
+        "address": "0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/veniceai_latest2_32.svg"
+      },
+      {
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+        "chainId": 8453,
+        "decimals": 8,
+        "logoURI": "https://basescan.org/token/images/wbtc_28.png"
+      },
+      {
+        "name": "Wrapped eETH",
+        "symbol": "weETH.base",
+        "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/etherfiweeth_32.png"
+      },
+      {
+        "name": "WorldMobileToken",
+        "symbol": "WMTX",
+        "address": "0x3e31966d4f81C72D2a55310A6365A56A4393E98D",
+        "chainId": 8453,
+        "decimals": 6,
+        "logoURI": "https://basescan.org/token/images/wmtx_64.png"
+      },
+      {
+        "name": "Zora",
+        "symbol": "ZORA",
+        "address": "0x1111111111166b7FE7bd91427724B487980aFc69",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/zora_64.png"
+      },
+      {
+        "name": "LayerZero",
+        "symbol": "ZRO",
+        "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/zro_32.png"
       }
     ]
   }
