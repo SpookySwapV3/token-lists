@@ -2,7 +2,7 @@
     "name": "Avalanche Default List",
     "timestamp": "2024-07-06T16:17:26Z",
     "version": {
-      "major": 3,
+      "major": 4,
       "minor": 2,
       "patch": 1
     },
@@ -26,6 +26,94 @@
         "chainId": 43114,
         "decimals": 6,
         "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png"
+      },
+      {
+        "name": "ArenaToken",
+        "symbol": "ARENA",
+        "address": "0xB8d7710f7d8349A506b75dD184F05777c82dAd0C",
+        "chainId": 43114,
+        "decimals": 18,
+        "logoURI": "https://dd.dexscreener.com/ds-data/tokens/avalanche/0xb8d7710f7d8349a506b75dd184f05777c82dad0c.png?size=lg&key=94a686"
+      },
+      {
+        "name": "Bitcoin",
+        "symbol": "BTC.b",
+        "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+        "chainId": 43114,
+        "decimals": 8,
+        "logoURI": "https://cms-cdn.avascan.com/cms2/bitcoinb_32.a9a2b18bab45.png"
+      },
+      {
+        "name": "COQINU",
+        "symbol": "COQ",
+        "address": "0x420FcA0121DC28039145009570975747295f2329",
+        "chainId": 43114,
+        "decimals": 18,
+        "logoURI": "https://cms-cdn.avascan.com/cms2/coqinuswap.b28d56c342dc"
+      },
+      {
+        "name": "JoeToken",
+        "symbol": "JOE",
+        "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+        "chainId": 43114,
+        "decimals": 18,
+        "logoURI": "https://cms-cdn.avascan.com/cms2/coqinuswap.b28d56c342dc"
+      },
+      {
+        "name": "yellow ket",
+        "symbol": "KET",
+        "address": "0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7",
+        "chainId": 43114,
+        "decimals": 18,
+        "logoURI": "https://cms-cdn.avascan.com/cms2/yellow_ket1737365784744.2071ac64e905.png"
+      },
+      {
+        "name": "BENQI",
+        "symbol": "QI",
+        "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+        "chainId": 43114,
+        "decimals": 18,
+        "logoURI": "https://cms-cdn.avascan.com/cms2/benqi_32.d80fde2619bf.png"
+      },
+      {
+        "name": "Staked AVAX",
+        "symbol": "sAVAX",
+        "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+        "chainId": 43114,
+        "decimals": 18,
+        "logoURI": "https://cms-cdn.avascan.com/cms2/staked_avax.40811130ba3f.png"
+      },
+      {
+        "name": "TetherToken",
+        "symbol": "USDt",
+        "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+        "chainId": 43114,
+        "decimals": 6,
+        "logoURI": "https://cms-cdn.avascan.com/cms2/usdt-tether-logo.d57b7dec617b.png"
+      },
+      {
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+        "chainId": 43114,
+        "decimals": 8,
+        "logoURI": "https://cms-cdn.avascan.com/cms2/wrappedbtc_ofc_32.e1d762b36b4c.svg"
+      },
+      {
+        "name": "Wrapped Ether",
+        "symbol": "WETH.e",
+        "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+        "chainId": 43114,
+        "decimals": 18,
+        "logoURI": "https://cms-cdn.avascan.com/cms2/ethereum_32.272101aba912.png"
+      },
+      {
+        "name": "Wink",
+        "symbol": "WINK",
+        "address": "0x7698A5311DA174A95253Ce86C21ca7272b9B05f8",
+        "chainId": 43114,
+        "decimals": 18,
+        "logoURI": "https://dd.dexscreener.com/ds-data/tokens/avalanche/0x7698a5311da174a95253ce86c21ca7272b9b05f8.png?size=lg&key=fa92b9"
       }
     ]
   }
