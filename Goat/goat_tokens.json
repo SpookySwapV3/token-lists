@@ -90,6 +90,14 @@
 			"chainId": 2345,
 			"decimals": 18,
 			"logoURI": "https://raw.githubusercontent.com/SpookySwapV3/token-lists/refs/heads/main/Goat/assets/GoLa.png"
+		},
+		{
+			"name": "gStrategy",
+			"symbol": "Strategy",
+			"address": "0x2C50EC1ad0E503080A8fBC71B800a8cfD0E0507B",
+			"chainId": 2345,
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/SpookySwapV3/token-lists/refs/heads/main/Goat/assets/strategy.png"
 		}
 	]
 }
