@@ -2,7 +2,7 @@
   "name": "SpookySwap Sonic Default List",
   "timestamp": "2025-03-26T10:17:27Z",
   "version": {
-    "major": 55,
+    "major": 56,
     "minor": 1,
     "patch": 1
   },
@@ -650,6 +650,14 @@
       "chainId": 146,
       "decimals": 18,
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x777ecd9a05d4640133f6112f3aa777f1ed5acace.png?size=lg&key=15d647"
+    },
+    {
+      "name": "CERUS",
+      "symbol": "CERUS",
+      "address": "0x45C2FA3E8c8C28a2c06C8A091c6C593229891fa7",
+      "chainId": 146,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpookySwapV3/token-lists/refs/heads/main/Sonic/assets/cerus.png"
     }
   ]
 }
