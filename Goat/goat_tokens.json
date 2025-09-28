@@ -2,7 +2,7 @@
 	"name": "GoatSwap Goat Default List",
 	"timestamp": "2025-03-12T23:30:00Z",
 	"version": {
-		"major": 24,
+		"major": 25,
 		"minor": 1,
 		"patch": 1
 	},
@@ -98,6 +98,14 @@
 			"chainId": 2345,
 			"decimals": 18,
 			"logoURI": "https://raw.githubusercontent.com/SpookySwapV3/token-lists/refs/heads/main/Goat/assets/strategy.png"
+		},
+		{
+			"name": "Goat Network",
+			"symbol": "GOATED",
+			"address": "0xbC10000000000000000000000000000000000001",
+			"chainId": 2345,
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/SpookySwapV3/token-lists/refs/heads/main/Goat/assets/GOATED.png"
 		}
 	]
 }
