@@ -106,6 +106,14 @@
 			"chainId": 2345,
 			"decimals": 18,
 			"logoURI": "https://raw.githubusercontent.com/SpookySwapV3/token-lists/refs/heads/main/Goat/assets/GOATED.png"
+		},
+		{
+			"name": "Bang Token",
+			"symbol": "BANG",
+			"address": "0x326153ad128C97D502f88c8b0Da177C405c19AC0",
+			"chainId": 2345,
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/SpookySwapV3/token-lists/refs/heads/main/Goat/assets/BANG.jpg"
 		}
 	]
 }
